@@ -6,7 +6,7 @@ This is to showcase how to use a print statement in rust, how to use if statemen
 
 Demo of my program in the link
 
-[Software Demo Video](https://youtu.be/zQ-c06yptVY)
+[Software Demo Video](https://youtu.be/M-oIsoqzsOw)
 
 # Development Environment
 * Visual Studio Code

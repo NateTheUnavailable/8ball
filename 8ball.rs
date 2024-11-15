@@ -3,7 +3,7 @@ use std::io;
 fn main() {
     let n = rand::thread_rng().gen_range(1..51);
     let mut question = String::new();
-    println!("What is your question?");
+    println!("What is your yes or no question?");
     io::stdin().read_line(&mut question).expect("Read line failed.");
     println!("Your question is {}", question);
     if n == 1 {
